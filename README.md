@@ -1,5 +1,6 @@
-# template_repo
-Template repo for miscellaneous ML project
+# pyro-tutorials
+Files to play with the [pyro](http://pyro.ai/examples/) module. 
+That module was developped to convert pytorch model into Bayesian models.
 
 
 ## Usage
